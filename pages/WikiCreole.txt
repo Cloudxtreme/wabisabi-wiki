@@ -1,0 +1,6 @@
+[http://wikicreole.org/ Wiki Creole] is an attempt to standardize page markup across WikiEngines. While an undoubtedly good thing, it is quite laborious to implement fully. Still, WabiSabi tries to follow the WikiCreole guidelines as much as possible within the project's CurrentGoals.
+
+Major exceptions are:
+; LinkSyntax is almost completely different. : Rationale: FreeLinks are an open can of worms, both for the programmer and the wiki user.
+; Tables are based on a subset of the MediaWiki syntax. : Rationale: the syntax proposed by WikiCreole is different from that in any wiki engine, and more difficult to implement in the first place.
+; Multi-level lists are not supported. : Rationale: they would double the size of the existing rendering engine for a minor gain.

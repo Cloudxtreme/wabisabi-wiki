@@ -1,0 +1,7 @@
+FlatFileStorage is the practice of saving a program's data in plain text files, which can be read and modified with a simple text editor. While this is [http://www.catb.org/~esr/writings/taoup/html/ in the Unix tradition], nowadays there is a widespread myth that flat files are somehow slow. See for example [http://felix.plesoianu.ro/fcp.website/index.php/page:About:Flat%20File%20Advantages Flat File Advantages] for a rebuttal, but the gist of it is: a RelationalDatabase still has to read your data off the disk, and //then// it has to perform all kinds of complex operations on top of that.
+
+That said, there are several ways to use flat files in wiki engines.
+
+* PmWiki saves pages in a complex format, with a change history recorded per-paragraph and some metadata on top of that.
+* OddMuse saved pages are in a MIME-like format, with a little metadata on top followed by the latest version of the page in plain, human-readable text.
+* DokuWiki saves each page as the user typed it, and the metadata, history etc. go elsewhere. This is also the approach taken by WabiSabi.

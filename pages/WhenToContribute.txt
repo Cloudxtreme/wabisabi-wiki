@@ -1,0 +1,13 @@
+: "It is easier to ask forgiveness than to ask for permission" -- [http://en.wikipedia.org/wiki/Grace_Hopper Grace Hopper]
+
+This wiki is about wiki engines and wiki technology in general and the WabiSabi engine in particular.
+
+Do contribute if:
+* You honestly think you can improve the wiki.
+* You can take responsibility for your own actions.
+* You have a sense of humor.
+
+Do abstain if:
+* You're a rules lawyer.
+* You think you're clever.
+* You think you're special.

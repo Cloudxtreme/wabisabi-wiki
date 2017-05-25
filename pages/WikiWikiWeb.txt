@@ -1,0 +1,3 @@
+See: http://c2.com/cgi/wiki?WikiWikiWeb
+
+While WabiSabi is not a WikiWikiWeb clone, its FeatureSet places the two quite close. Each of them can do things the other can't. E.g. the original wiki has search, backlinks (apparently implemented via search), and "similar pages", but no preview function or page transclusion as far as I can tell. WikiWikiWeb uses a DBM database, WabiSabi uses flat files. Overall, I think the differences balance out.

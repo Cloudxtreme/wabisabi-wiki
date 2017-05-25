@@ -1,0 +1,23 @@
+There are hundreds of WikiEngines out there, and WabiSabi draws inspiration from quite a few of them.
+
+== Similar engines
+
+* [http://www.pawfal.org/pawfaliki/ Pawfaliki] should be the closest other engine out there, but isn't. Pawfaliki is almost 5 times as large as WabiSabi and skimps on markup in favor of various advanced features.
+* [http://infomesh.net/pwyky/ Pwyky] is similar to Pawfaliki in size and features, except it's written in Python.
+* WikiWikiWeb was the original wiki, and though it's written in Perl and with a different focus than WabiSabi, it is closer in spirit than the others.
+
+== Major influences
+
+* DokuWiki
+* PmWiki
+* OddMuse
+
+== Others
+
+* PhpWiki
+* MediaWiki
+
+== See also
+
+* http://c2.com/cgi/wiki?WikiEngines
+* http://www.wikimatrix.org/

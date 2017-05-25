@@ -1,0 +1,16 @@
+: "nothing lasts, nothing is finished, and nothing is perfect" -- http://en.wikipedia.org/wiki/Wabi-sabi
+
+== What WabiSabi is
+
+; **clean** : Any feature that involves complex logic is right out.
+; **concise** : It is the author's opinion that sprawling code is as bad as obfuscated code.
+; **useful** : That said, minimalism for the sake of it doesn't help anyone. There should be a balance.
+
+== What WabiSabi isn't
+
+; **complete** : Other WikiEngines include everything and the kitchen sink, not to mention an atoll or two plus a coral reef. That makes them harder to understand and use for anyone who //doesn't// need the extra features.
+; **definitive** : These goals are likely to change over time and there's nothing wrong with that.
+
+== See also
+
+http://c2.com/cgi/wiki?WabiSabi

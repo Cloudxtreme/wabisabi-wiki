@@ -1,0 +1,4 @@
+The page content of [http://felix.plesoianu.ro/php/wabisabi/ WabiSabi Wiki] (as opposed to the source code) is under a
+{{http://i.creativecommons.org/l/by-sa/3.0/80x15.png}} [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported License].
+
+By editing this wiki you are placing your contributions under the same license. Please make sure you have the rights to do so.

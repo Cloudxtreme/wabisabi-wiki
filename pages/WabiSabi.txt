@@ -1,0 +1,22 @@
+WabiSabi is a fast experimental Wiki engine in 275 lines of PHP. The FeatureSet places it in the same ballpark as the original WikiWikiWeb, only with a modern bent. The name comes from a Japanese aesthetic that is reflected in the project's CurrentGoals.
+
+This website is also about WikiEngines and WikiTechnology in general. It is an open wiki, as it should be. If in doubt, see WhenToContribute. The WikiSandbox will give you an idea of the supported syntax.
+
+== News
+
+;2015-03-08: We have new users at http://ccac.hol.es/wabisabi/ -- a German computer club, it would seem. Thanks for the plug, guys!
+;2014-02-15: Wabisabi Wiki has moved! Please update your bookmarks.
+;2013-05-23: [http://thewikiman.allsup.co/ Abby Stabby], a personal wiki, claims to run a modified WabiSabi, though no details or download are provided. (Download link to all but content is here: [http://thewikiman.allsup.co/AbbyStabby-Sept2013.tar.gz AbbyStabbyCode] and you'll see it is just that: WabiSabi plus a few modifications -- John who did the mods and owns allsup.co)
+;2012-06-29: Fixed a bug whereas markup plugins wouldn't work in included pages; more flexible HTML; customizable GoToBar.
+;2012-06-26: New version with many improvements: a GoToBar, date format option, Wanted Pages is now a plugin, reading and Recent Changes are faster. Also cleaned up the default set of pages.
+;2012-03-28: Just found [http://wabisabi.cg.net.ru/ WabiSabi960], a neat mod with intriguing enhancements by a Russian web developer. 
+;2011-11-12: A new release fixes a stupid bug whereas the regular expression for WikiWords didn't accept the digit 0 (zero). Thank you, [http://randal.tiddlyspace.com/ Randal]! This version also includes the title search plugin I developed and never released for some reason. (Ed: or not. Oops.)
+;2011-11-07: [http://brotherhoodnews.info/bible/ BiblePost], a wiki for biblical studies, uses WabiSabi.
+;2011-09-11: There is now a [http://www.manadalibre.org/desarrollos/doku.php?id=cakephp:wabisabi-plugin_wabisabi_plugin WabiSabi Wiki plugin for CakePHP] (site in Spanish).
+;2010-09-18: Discovered [http://www.lab21.net/ yet another user of WabiSabi], this time a personal website (in Czech, I think).
+;2010-06-20: Fixed a bug where the renderer would reject some uncommon yet valid URLs.
+;2010-05-03: New features: more template variables, better page name checking, save now fails if page is unchanged.
+;2010-02-04: Just discovered that the [http://retroforth.org/pages/ RetroForth Wiki] has been migrated to WabiSabi. Nice!
+;2010-01-23: Added an RSS feed plugin (enabled by default).
+;2010-01-22: Latest version brings a timezone setting to satisfy PHP 5.3, and two new template variables that can be set by plugins at load time.
+;2009-11-14: Aaand... we have users! The [http://www.ens-lyon.fr/LIP/PLUME/index.php Plume Team at the École Normale Supérieure de Lyon] have customized WabiSabi for their own needs. (I must be doing something right. -- FelixPlesoianu)

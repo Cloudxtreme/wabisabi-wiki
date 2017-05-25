@@ -1,0 +1,1 @@
+DokuWiki is a large-ish engine with FlatFileStorage, an user-friendly interface and very good media support. While the internals are quite complex, ready-made themes and plugins are easy to install and manage.

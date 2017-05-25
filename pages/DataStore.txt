@@ -1,0 +1,5 @@
+Each wiki needs to keep its data somewhere. There are several techniques for doing that, but most wikis use one of these:
+
+* FlatFileStorage: Used by UseMod, OddMuse, PmWiki, DokuWiki and WabiSabi.
+* KeyValueStore: Employed by the original WikiWikiWeb in the form of GNU DBM.
+* RelationalDatabase: The most sofisticated solution, adopted by MediaWiki and other, less known WikiEngines.

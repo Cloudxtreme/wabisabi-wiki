@@ -1,0 +1,5 @@
+See: http://mediawiki.org/
+
+MediaWiki is one of the largest WikiEngines, originally created for [http://wikipedia.org/ Wikipedia] and used by many other wikis. It sits at the opposite end of the complexity spectrum for WabiSabi, which only borrows a subset of the MediaWiki table syntax (and the definition list syntax, in common with most other engines).
+
+MediaWiki is one of the few major WikiEngines using a RelationalDatabase for storage, which it justifies by being optimized for very large wikis.

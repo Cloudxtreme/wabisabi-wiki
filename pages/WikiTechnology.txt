@@ -1,0 +1,10 @@
+While the original wiki's main selling point was technological in nature ("the simplest online database that can possibly work"), wikis have become famous mostly as a social phenomenon. Which they are, but as a result the technology side doesn't see much discussion, and that's too bad.
+
+WabiSabi started as an attempt to see just how little one can get away with, both in terms of features and of code size. Turns out, a lot can be done with very little. For example, conventional wisdom holds that stateless wiki parsers can only implement a simplistic syntax. WabiSabi proves the contrary, with a 70-line stateless parser that offers most of the syntax from much larger wikis, and is extensible on top of that.
+
+Many people on the original wiki discussed wiki technology -- the most obvious were new features that "obviously need to be added"; but some people found it more interesting to simplify the software and see what features that could be left out.
+(For example,
+[http://c2.com/cgi/wiki?ShortestWikiContest the shortest wiki contest]
+).
+However, such [http://c2.com/cgi/wiki?WikiOnWiki wiki-on-wiki meta-discussion] is off-topic on the original wiki;
+which led to such discussion being deleted and lost forever :-( or pushed to some other wiki -- such as the WabiSabi website (not to be confused with the WabiSabi WikiEngine ).

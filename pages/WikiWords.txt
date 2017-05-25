@@ -1,0 +1,8 @@
+WikiWords (also known as CamelCase in programmer circles): Compound terms obtained by running together at least two capitalized words. WabiSabi uses them to designate internal links, much like WikiWikiWeb and a few other engines. Contrast with the far more common FreeLinks.
+
+I must say I wasn't very fond of WikiWords at first, but they turned out to be trivially implemented, and they make it easy to choose page names. -- FelixPlesoianu
+
+== See also
+
+* http://en.wikipedia.org/wiki/Camelcase
+* http://c2.com/cgi/wiki?WikiWord

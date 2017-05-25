@@ -1,0 +1,8 @@
+I've been asked about my future plans concerning WabiSabi. Well, it was a one-off experiment which I didn't expect to keep updating. That said, there are some features I'd like to add sooner or later:
+
+* easy restore from backup, to make spamming even less worthwhile;
+* backlinks, for quick-and-dirty page categories;
+* a page trail feature like the one in PmWiki;
+* more plugin hooks, to make it truly extensible.
+
+I'd be happy to take suggestions and generally talk development. My e-mail address is in the source code, and you can find me on various social networks.

@@ -1,0 +1,5 @@
+<<title PHP Wiki>>
+
+[http://phpwiki.sourceforge.net/ PHP Wiki] is a true WikiWikiWeb clone (in that it tries to imitate the original wiki as much as possible), and one of the earliest WikiEngines written in PHP. Unfortunately, it is also very large for what it offers; the configuration file alone is larger than the WabiSabi core.
+
+PhpWiki's main feature appears to be support for a wide variety of databases..

@@ -1,0 +1,1 @@
+Nowadays, the most prominent WikiEngines use double square brackets to delimit both internal and external links. WabiSabi, on the other hand, sticks with the traditional WikiWords. The only time when it does follow the WikiCreole linking convention (mostly...) is when inlining images.

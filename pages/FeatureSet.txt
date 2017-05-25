@@ -1,0 +1,25 @@
+;**Modern markup**: Mostly a subset of WikiCreole, except with a completely different LinkSyntax.
+
+;**Modern HTML**: Generated pages normally validate as HTML5 (though it's possible to break that), and CSS is supported. We're not in 1995 anymore.
+
+;**UTF-8 support**: While page names are restricted to ASCII characters, page contents are handled as UTF-8, permitting a wide range of characters.
+
+;**Page transclusion**: Can be used as a poor man's redirect, plus other things.
+
+;**Flat-file storage**: Pages are saved as ordinary text files on disk, making them easy to backup, inspect or change from outside WabiSabi.
+
+;**Page backups**: The previous two versions of any page are saved. A future release will probably offer access to them.
+
+;**Captcha**: The simplest possible system, based on a fixed password. Before you ask, yes, this is effective, and also allows for a non-public wiki simply by hiding the password.
+
+;**Recent changes**: On the other hand, it should be easy to watch when pages are changed, in order to catch vandalism quickly.
+
+;**Universal Edit Button**: See http://universaleditbutton.org/Universal_Edit_Button
+
+;**Plugin support**: Allows creating extra wiki actions and markup plugins, and replacing or modifying the built-in templates, without any changes to the core file.
+
+== Plugins
+
+;**Wanted pages**: Finds and displays all links to non-existent pages on the wiki.
+
+;**RSS newsfeed**: Renders the recent changes as a newsfeed in RSS format, making it easy to monitor automatically.

@@ -1,0 +1,3 @@
+UseMod is a WikiEngine written in Perl and using FlatFileStorage instead of a database. It is the precursor of OddMuse.
+
+UseMod powers [http://meatballwiki.org/wiki/ Meatball Wiki], a meeting place for people interested in the social aspects of wikis, and online communities in general.

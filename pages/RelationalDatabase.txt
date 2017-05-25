@@ -1,0 +1,1 @@
+Mostly due to the ubiquity of MySQL, a RelationalDatabase is often the default choice of DataStore for Web applications. Of the major WikiEngines, though, only MediaWiki and PhpWiki use one.

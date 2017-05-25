@@ -1,0 +1,1 @@
+PmWiki is a lightweight engine with FlatFileStorage and many unique ways to organize content. On the downside, setting up and administering PmWiki requires some knowledge of PHP. On the upside, the engine is very easy to extend and customize.

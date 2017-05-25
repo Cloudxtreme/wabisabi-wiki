@@ -1,0 +1,3 @@
+A descendant of UseMod, itself one of the oldest WikiEngines, OddMuse is a one-file lightweight engine written in Perl. Notable features are FlatFileStorage and built-in blogging support.
+
+Installing and managing OddMuse requires some knowledge of Perl. The engine is highly extensible, but looks are customized almost exclusively via CSS, as changing the HTML requires writing an extension.

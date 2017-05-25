@@ -1,0 +1,19 @@
+Well here's a feedback: This Wikisoftware just rocks! :D Thanks!
+
+Believe it or not, I didn't write that. :P -- FelixPlesoianu
+----
+I really like the simplicity of WabiSabi and am experimenting with it now, for possible use as a website. Question: what's the plan for development, updates, etc.? I don't want to go down a dead-end street. :) --Randal
+
+I'm afraid WabiSabi was a one-off experiment, Randal. I don't have any plans for further development. But I'd be happy to talk about it. -- FelixPlesoianu
+
+Sorry to hear there are no plans for development, Felix. But I understand the idea of the experiment. -- Randal
+----
+I have a WikiWord that isn't being interpreted correctly by the software: NT-Ga4_12-20 . The last zero isn't being accepted as a part of the link. What's going on here?
+
+A: Looks like a bug! I'll try to look one of these days (as of 2011-11-11). No promises though, life's busy. Drop me an e-mail, and I'll let you know.
+
+In the main file, only 1-9 were defined as possible digits for a WikiWord. I know almost nothing about code and all that, but I changed it to 0-9 and it worked. :) BTW, didn't see an email for you anywhere, so I just popped in here. -- Randal
+
+My e-mail is at the top of the file you just changed. Good catch, by the way, I'll publish a fixed version soon.
+----
+Hi, Felix, here's an application for WabiSabi that would rock the boat: A WordPress plug-in. The ones I see are either commercial and very limited, or not desirable for some reason.

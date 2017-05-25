@@ -1,0 +1,8 @@
+* http://felix.plesoianu.ro/php/wabisabi/wabisabi-20120629.zip (19.5K)
+* http://felix.plesoianu.ro/php/wabisabi/wabisabi-20120626.zip (19K) -- previous version
+* http://felix.plesoianu.ro/php/wabisabi/wabisabi-20111112.zip (20K) -- legacy version
+If you are asking what license this software is released under, you are asking the wrong question.
+
+The archive may lag behind the online version at times. Be patient. Better yet, contact me. :)
+
+Please keep in mind that WabiSabi was created out of academic curiosity. It may or may not be suitable for a production website. Especially as it's little used, so it may well have bugs and security holes. That said, I //am// trying to make it useful, so feel free to leave QuestionsAndFeedback. Also check out the RoadMap.

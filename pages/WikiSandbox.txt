@@ -1,0 +1,56 @@
+WabiSabi supports a limited, but hopefully useful set of markup patterns.
+
+== Block-level markup
+
+=== Headings
+
+==== Over multiple levels
+
+Normal paragraphs.
+
+* lists
+* and lists
+# and numbered lists
+## but no multiple levels
+
+{{{Preformatted text
+(no wiki markup recognized inside).}}}
+
+{|
+ |+tables
+ |+like in
+ |+MediaWiki
+ |-
+ |1
+ |2
+ |3
+ |}
+
+----
+
+Horizontal lines.
+
+: Block quotes,
+
+;and finally:definition lists.
+
+== inline markup ==
+
+WikiWords, [http://en.wikipedia.org/wiki/Url labeled external links], bare external links: http://wikipedia.org/ and even pictures:
+\\{{http://felix.plesoianu.ro/pub/media/p1000273.jpg}}
+
+Explicit\\linebreaks, **bold** and //italic//, plus
+ ,,subscript,, and ^^superscript^^.
+
+Last but not least, you can have {{{'(inline code fragments)}}}.
+
+=== Markup plug-ins
+
+<////<include (page name)>> includes another page (duh!)
+
+<////<title (page title)>> sets the displayed page title, presumably to something other than the page name.
+
+linebreak by double backslash:\\
+works!
+
+bottom of sandbox
