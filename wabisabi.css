@@ -1,0 +1,74 @@
+html { Background-color: #ffcc66; }
+body {
+	Font-size: 1.1em;
+	Width: 80ex;
+	Margin: 5ex auto;
+	Padding: 5ex;
+	Background-color: white;
+	Color: black;
+	Border: 1px solid black;
+	Border-right-width: 2px;
+	Border-bottom-width: 2px;
+	-webkit-box-shadow: 3px 3px 3px #999999;
+	-moz-box-shadow: 3px 3px 3px #999999;
+	Box-shadow: 3px 3px 3px #999999;
+	Font-family: serif;
+	Position: relative;
+}
+a { Color: #006699; }
+a:visited { Color: #990066; }
+h1, h2, h3, h4, h5, h6 { Font-weight: bold; Font-family: sans-serif; }
+h1 { Font-size: 1.6em; Border-bottom: 1px solid black; }
+h2 { Font-size: 1.5em; }
+h3 { Font-size: 1.4em; }
+h4 { Font-size: 1.3em; }
+h5 { Font-size: 1.2em; }
+h6 { Font-size: 1.1em; }
+
+div.main {
+	Position: relative;
+	Padding-top: 2em;
+}
+
+div#gotobar {
+	Position: absolute;
+	Top: 0; Left: 0;
+	Font-family: sans-serif;
+}
+div#gotobar ul {
+	List-style: none;
+	Margin: 0; Padding: 0;
+}
+div#gotobar li { Float: left; Margin-right: 1ex; }
+div#gotobar a { Display: block; }
+
+div#actionbar div { Float: right; }
+
+div.article table { Margin: 1em auto; }
+div.article th, div.article td {
+	Margin: 0; Padding: 0.5em;
+	Border: 1px solid #808080;
+	Border-collapse: collapse;
+}
+div.article th {
+	Color: #ffffff;
+	Background-color: #808080;
+	Font-family: sans-serif;
+}
+div.article hr { Color: #808080; }
+
+div.footer {
+	Font-family: sans-serif;
+	Margin-top: 1em;
+	Border-top: 1px solid black;
+}
+
+a.rss {
+	Background-color: orange;
+	Color: white;
+	Font-size: 0.7em;
+	Font-weight: bold;
+	Text-decoration: none;
+	Padding: 0.15em;
+	Border-radius: 0.15em;
+}
